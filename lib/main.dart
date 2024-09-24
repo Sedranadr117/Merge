@@ -24,7 +24,7 @@ class BirthdayCard extends StatelessWidget {
                 child: Column(
                   children: [
                     Text(
-                      "Happy Birthday",
+                      "Happy",
                       style: TextStyle(
                           fontFamily: "Pacifico",
                           fontSize: 50,
